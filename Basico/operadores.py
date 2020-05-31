@@ -7,7 +7,7 @@ print(10%3)
 print("Exponente: ")
 print(5**3)
 
-print("divicion, regresa el vamor entero")
+print("divición, regresa el valor entero")
 print(12//4)
 
 nombre=5
